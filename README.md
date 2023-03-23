@@ -1,1 +1,1 @@
-# event-porposal
+# event-proposal
